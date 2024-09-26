@@ -1,0 +1,15 @@
+F:\.netclass\class codes\LINQ\Linq_Session_2\bin\Debug\net8.0\Linq_Session_2.exe
+F:\.netclass\class codes\LINQ\Linq_Session_2\bin\Debug\net8.0\Linq_Session_2.deps.json
+F:\.netclass\class codes\LINQ\Linq_Session_2\bin\Debug\net8.0\Linq_Session_2.runtimeconfig.json
+F:\.netclass\class codes\LINQ\Linq_Session_2\bin\Debug\net8.0\Linq_Session_2.dll
+F:\.netclass\class codes\LINQ\Linq_Session_2\bin\Debug\net8.0\Linq_Session_2.pdb
+F:\.netclass\class codes\LINQ\Linq_Session_2\obj\Debug\net8.0\Linq_Session_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\.netclass\class codes\LINQ\Linq_Session_2\obj\Debug\net8.0\Linq_Session_2.AssemblyInfoInputs.cache
+F:\.netclass\class codes\LINQ\Linq_Session_2\obj\Debug\net8.0\Linq_Session_2.AssemblyInfo.cs
+F:\.netclass\class codes\LINQ\Linq_Session_2\obj\Debug\net8.0\Linq_Session_2.csproj.CoreCompileInputs.cache
+F:\.netclass\class codes\LINQ\Linq_Session_2\obj\Debug\net8.0\Linq_Session_2.sourcelink.json
+F:\.netclass\class codes\LINQ\Linq_Session_2\obj\Debug\net8.0\Linq_Session_2.dll
+F:\.netclass\class codes\LINQ\Linq_Session_2\obj\Debug\net8.0\refint\Linq_Session_2.dll
+F:\.netclass\class codes\LINQ\Linq_Session_2\obj\Debug\net8.0\Linq_Session_2.pdb
+F:\.netclass\class codes\LINQ\Linq_Session_2\obj\Debug\net8.0\Linq_Session_2.genruntimeconfig.cache
+F:\.netclass\class codes\LINQ\Linq_Session_2\obj\Debug\net8.0\ref\Linq_Session_2.dll
