@@ -1,0 +1,14 @@
+F:\.netclass\class codes\LINQ\LInq_Session\bin\Debug\net8.0\LInq_Session.exe
+F:\.netclass\class codes\LINQ\LInq_Session\bin\Debug\net8.0\LInq_Session.deps.json
+F:\.netclass\class codes\LINQ\LInq_Session\bin\Debug\net8.0\LInq_Session.runtimeconfig.json
+F:\.netclass\class codes\LINQ\LInq_Session\bin\Debug\net8.0\LInq_Session.dll
+F:\.netclass\class codes\LINQ\LInq_Session\bin\Debug\net8.0\LInq_Session.pdb
+F:\.netclass\class codes\LINQ\LInq_Session\obj\Debug\net8.0\LInq_Session.GeneratedMSBuildEditorConfig.editorconfig
+F:\.netclass\class codes\LINQ\LInq_Session\obj\Debug\net8.0\LInq_Session.AssemblyInfoInputs.cache
+F:\.netclass\class codes\LINQ\LInq_Session\obj\Debug\net8.0\LInq_Session.AssemblyInfo.cs
+F:\.netclass\class codes\LINQ\LInq_Session\obj\Debug\net8.0\LInq_Session.csproj.CoreCompileInputs.cache
+F:\.netclass\class codes\LINQ\LInq_Session\obj\Debug\net8.0\LInq_Session.dll
+F:\.netclass\class codes\LINQ\LInq_Session\obj\Debug\net8.0\refint\LInq_Session.dll
+F:\.netclass\class codes\LINQ\LInq_Session\obj\Debug\net8.0\LInq_Session.pdb
+F:\.netclass\class codes\LINQ\LInq_Session\obj\Debug\net8.0\LInq_Session.genruntimeconfig.cache
+F:\.netclass\class codes\LINQ\LInq_Session\obj\Debug\net8.0\ref\LInq_Session.dll
