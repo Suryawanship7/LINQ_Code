@@ -1,0 +1,15 @@
+F:\.netclass\class codes\LINQ\Linq_Session_3\bin\Debug\net8.0\Linq_Session_3.exe
+F:\.netclass\class codes\LINQ\Linq_Session_3\bin\Debug\net8.0\Linq_Session_3.deps.json
+F:\.netclass\class codes\LINQ\Linq_Session_3\bin\Debug\net8.0\Linq_Session_3.runtimeconfig.json
+F:\.netclass\class codes\LINQ\Linq_Session_3\bin\Debug\net8.0\Linq_Session_3.dll
+F:\.netclass\class codes\LINQ\Linq_Session_3\bin\Debug\net8.0\Linq_Session_3.pdb
+F:\.netclass\class codes\LINQ\Linq_Session_3\obj\Debug\net8.0\Linq_Session_3.GeneratedMSBuildEditorConfig.editorconfig
+F:\.netclass\class codes\LINQ\Linq_Session_3\obj\Debug\net8.0\Linq_Session_3.AssemblyInfoInputs.cache
+F:\.netclass\class codes\LINQ\Linq_Session_3\obj\Debug\net8.0\Linq_Session_3.AssemblyInfo.cs
+F:\.netclass\class codes\LINQ\Linq_Session_3\obj\Debug\net8.0\Linq_Session_3.csproj.CoreCompileInputs.cache
+F:\.netclass\class codes\LINQ\Linq_Session_3\obj\Debug\net8.0\Linq_Session_3.sourcelink.json
+F:\.netclass\class codes\LINQ\Linq_Session_3\obj\Debug\net8.0\Linq_Session_3.dll
+F:\.netclass\class codes\LINQ\Linq_Session_3\obj\Debug\net8.0\refint\Linq_Session_3.dll
+F:\.netclass\class codes\LINQ\Linq_Session_3\obj\Debug\net8.0\Linq_Session_3.pdb
+F:\.netclass\class codes\LINQ\Linq_Session_3\obj\Debug\net8.0\Linq_Session_3.genruntimeconfig.cache
+F:\.netclass\class codes\LINQ\Linq_Session_3\obj\Debug\net8.0\ref\Linq_Session_3.dll
